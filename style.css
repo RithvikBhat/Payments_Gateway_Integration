@@ -1,8 +1,12 @@
+/* Default */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Navbar */
 
 .navbar {
     box-shadow: 0px 8px 8px -6px rgba(0, 0, 0, 0.5);
@@ -25,6 +29,8 @@
 .navbar-light .navbar-nav .nav-link:hover {
     color: rgb(180, 178, 178);
 }
+
+/* Section */
 
 img.round {
     border-radius: 20px;
@@ -54,10 +60,12 @@ img.shape {
     border-radius: 50%;
 }
 
-.image-hover:hover{
+.image-hover:hover {
     transform: translateY(-10px);
     border: 0.3rem solid #000;
 }
+
+/* Icons */
 
 i.fa-facebook {
     color: blue;
@@ -78,6 +86,8 @@ i.fa-youtube {
 i.fa-arrow-circle-up {
     color: #F8F9FA;
 }
+
+/* Maps Responsiveness */
 
 .map-responsive {
     overflow: hidden;
