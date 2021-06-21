@@ -314,6 +314,8 @@
         integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
         crossorigin="anonymous"></script>
     <!-- Bootstrap JS file -->
+    
+    <!-- Main JS file -->
     <script type="text/javascript">
         fetch('https://corona.lmao.ninja/v2/countries/India')
             .then((Response) => {
@@ -326,8 +328,8 @@
                 document.getElementById("cases").innerHTML = data.cases.toLocaleString();
                 document.getElementById("death").innerHTML = data.deaths.toLocaleString();
             })
-
     </script>
+    <!-- Main JS file -->
 </body>
 
 </html>
