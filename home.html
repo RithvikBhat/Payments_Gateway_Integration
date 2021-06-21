@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="style.css">
     <!-- Main CSS file -->
 
-    <title>CoviRel - Fight Covid!</title>
+    <title>Covid Relief - Fight Covid!</title>
 </head>
 
 <body>
@@ -314,8 +314,7 @@
         integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
         crossorigin="anonymous"></script>
     <!-- Bootstrap JS file -->
-    
-    <!-- Main JS file -->
+    <!-- Main JS -->
     <script type="text/javascript">
         fetch('https://corona.lmao.ninja/v2/countries/India')
             .then((Response) => {
@@ -323,13 +322,12 @@
             })
 
             .then((data) => {
-
                 document.getElementById("active").innerHTML = data.active.toLocaleString();
                 document.getElementById("cases").innerHTML = data.cases.toLocaleString();
                 document.getElementById("death").innerHTML = data.deaths.toLocaleString();
             })
     </script>
-    <!-- Main JS file -->
+    <!-- Main JS -->
 </body>
 
 </html>
