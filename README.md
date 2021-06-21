@@ -1,5 +1,5 @@
 # Website Link: 
-[Click to view the Covid Relief website](https://inspiring-carson-f3692c.netlify.app/)
+[Click to view the Covid Relief website](https://vigilant-turing-3bf75c.netlify.app/)
 
 # Payments_Gateway_Integration
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
