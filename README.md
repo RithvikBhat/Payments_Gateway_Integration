@@ -1,7 +1,4 @@
-# Website Link: 
-[Click to view the Covid Relief website](https://vigilant-turing-3bf75c.netlify.app/)
-
-# Payments_Gateway_Integration
+# [Payments_Gateway_Integration](https://vigilant-turing-3bf75c.netlify.app/)
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
   1. Internship Category - Web Development and Design
   2. Internship Duration - 1 Month (June-2021)
